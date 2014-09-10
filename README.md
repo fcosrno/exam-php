@@ -5,7 +5,7 @@ PHP library to create, display, and grade exams.
 
 Bonus: you can use it to generate surveys (just ignore the grading feature).
 
-[![Build Status](https://travis-ci.org/fcosrno/exam-php.svg)](https://travis-ci.org/fcosrno/exam-php)
+[![Build Status](https://travis-ci.org/fcosrno/exam-php.svg)](https://travis-ci.org/fcosrno/exam-php) [![Latest Stable Version](https://poser.pugx.org/fcosrno/exam-php/v/stable.svg)](https://packagist.org/packages/fcosrno/exam-php)
 
 Setup
 -----
