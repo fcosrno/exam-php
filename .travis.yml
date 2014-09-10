@@ -12,4 +12,4 @@ before_script:
   - travis_retry composer install --no-interaction --prefer-source
 
 script:
-  - phpunit --coverage-text
+  - phpunit --bootstrap vendor/autoload.php tests/
