@@ -134,7 +134,7 @@ This will return the grade as a percent string, ie "75%". However, you can also 
 	$exam->grade($answers)->asDecimal(); 
 	
 	// this will return a fraction, ie 2 / 3 (string)
-	$exam->grade($answers)->asPercentage(); 
+	$exam->grade($answers)->asFraction(); 
 	
 	// this will return a percentage, ie 75 (integer)
 	$exam->grade($answers)->asPercentage(); 
