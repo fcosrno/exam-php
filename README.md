@@ -10,7 +10,7 @@ Bonus: you can use it to generate surveys (just ignore the grading feature).
 Setup
 -----
 
-	composer install fcosrno/exam-php
+	composer require fcosrno/exam-php
 
 
 Quick Usage
